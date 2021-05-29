@@ -1,4 +1,4 @@
-### Hi there buddy 👋
+### Hi there 👋
 
 My interests:
 - 🎮 Game developing 
