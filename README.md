@@ -8,8 +8,7 @@ My interests:
 <br>
 
 Currently working on:
-- 🎮 Arcade Game for Android
-- 💻 Refactoring of TEUP's website
+- 🎮 Farming Game for PC
 
 <br>
 
