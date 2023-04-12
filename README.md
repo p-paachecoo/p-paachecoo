@@ -1,6 +1,7 @@
 # Hi there 👋
 
-My interests:
+Some interests (but not all of them :octocat:):
+- 🐈 CATS (who doesn't like cats?)
 - 🎮 Game development
 - 💻 Web development
 - 🔒 Cybersecurity
@@ -8,8 +9,15 @@ My interests:
 <br>
 
 Currently working on:
-- 🎮 Farming Game for PC
+- 🎮 Secret Game Project 👀
+
+Feel free to reach out with ideas or if you just wanna discuss something 😸
 
 <br>
 
 ![Pedro Pacheco's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-paachecoo&theme=dark)
+
+<br>
+
+## Visit Count
+![Visitor Count](https://profile-counter.glitch.me/p-paachecoo/count.svg)
