@@ -1,15 +1,12 @@
 # Hi there 👋
 
 Some interests (but not all of them :octocat:):
-- 🐈 CATS (who doesn't like cats?)
+- 🐈 Cats
 - 🎮 Game development
 - 💻 Web development
 - 🔒 Cybersecurity
 
 <br>
-
-Currently working on:
-- 🎮 Secret Game Project 👀
 
 Feel free to reach out with ideas or if you just wanna discuss something 😸
 
