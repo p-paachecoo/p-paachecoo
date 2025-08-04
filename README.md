@@ -15,6 +15,3 @@ Feel free to reach out with ideas or if you just wanna discuss something 😸
 ![Pedro Pacheco's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-paachecoo&theme=dark)
 
 <br>
-
-## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/p-paachecoo/count.svg)
